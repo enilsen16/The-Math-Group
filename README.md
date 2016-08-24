@@ -18,7 +18,7 @@ Welcome to the The-Math-Group wiki!
 
 * Take multivariable calculus at a college during a summer session (like stanford or berkeley or harvard, and surprisingly UC Santa Cruz summer math classes are open to anyone, affordable, and are surprisingly more proof based than standard or try to take a class online through an online extension school like Harvard’s extension school or UC online (UC Santa Cruz’s Math 23 is surprisingly rigorous (uses Marsden and Tromba) and way better than a standard calculus class).
 
-
+**All textbooks are provided @ the homepage**
 
 # Group 2
 
