@@ -58,6 +58,8 @@ Welcome to the The-Math-Group wiki!
 
 * https://en.wikipedia.org/wiki/Foundations_of_mathematics#Foundational_crisis
 
+* http://www.maa.org/sites/default/files/images/upload_library/22/Allendoerfer/1980/0025570x.di021111.02p0048m.pdf
+
 * http://www.scientificamerican.com/article/infinity-logic-law/
 
 * http://www.unalmed.edu.co/~jmramirezo/Jorge_Ramirez/Conjuntos_files/introdiction-to-set-Theory.pdf
