@@ -6,7 +6,7 @@ Welcome to the The-Math-Group wiki!
 
 ## Curriculum:
 
-* Read Lang’s book first. When you get to Algebra 2 type stuff, use Garland side by side with Lang. So, read lang first, do his exercises, then do Garland’s exercises to make sure you can apply it.
+* Read Lang’s book first. When you get to Algebra 2 type stuff, use Gelfand side by side with Lang. So, read lang first, do his exercises, then do Gelfandd’s exercises to make sure you can apply it.
 
 * When you get to the Trig stuff in Lang’s book, either use Axler’s precalc book or another trig or precalc book side by side to make sure you can apply the material.
 
